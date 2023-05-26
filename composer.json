@@ -1,0 +1,15 @@
+{
+    "name": "codeholic/categories",
+    "autoload": {
+        "psr-4": {
+            "Codeholic\\Categories\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Codeholic",
+            "email": "irenic.tahir@gmail.com"
+        }
+    ],
+    "require": {}
+}
